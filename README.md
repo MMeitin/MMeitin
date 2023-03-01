@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! Mario here! </h1>
+<h1 align="center"> Hello World! It's me, Mario! <img height="40em" src="https://user-images.githubusercontent.com/119697744/222236823-6d72674d-a741-4eae-897f-3a394432de8a.png" /> </h1> 
 
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/mariomeitin/" target="_blank" data-description="LinkedIn" data-fontawesome-unicode-icon="f08c" data-color="#0a66c2"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
@@ -7,7 +7,7 @@
 
 <br>
 
-Mi nombre es Mario Meitín y soy un estudiante entusiasta del desarrollo web y el Big Data. Estoy formándome de forma intensiva en tecnologías como HTML, CSS, JavaScript, Python y SQL. Me interesa aprender a crear soluciones innovadoras y eficientes para los problemas que me encuentro. Mi objetivo es seguir mejorando mis conocimientos y contribuir a proyectos interesantes.
+Mi nombre es Mario Meitín y soy un entusiasta del desarrollo web y el Big Data. Estoy formándome de forma intensiva en tecnologías como HTML, CSS, JavaScript, Python y SQL. Me interesa aprender a crear soluciones innovadoras y eficientes para los problemas que me encuentro. Mi objetivo es seguir mejorando mis conocimientos y contribuir a proyectos interesantes.
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
