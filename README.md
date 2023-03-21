@@ -24,10 +24,10 @@ Mi nombre es Mario Meitín y soy un entusiasta del desarrollo web y el Big Data.
   <summary>:zap: Github Stats</summary>
   <p align="left">
   <a href="https://github.com/MMeitin">
-    <img width="420" align="left" alt="MMeitin Github Stats" src="https://github-readme-stats-mmeitin.vercel.app/api?username=mmeitin&show_icons=true&hide_border=true" />
+    <img width="420" align="left" alt="MMeitin Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/api?username=mmeitin&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/MMeitin">
-    <img align="left" alt="mmeitin Github Stats" src="https://github-readme-stats-mmeitin.vercel.app/api/top-langs/?username=mmeitin&layout=compact&hide_border=true" />
+    <img align="left" alt="mmeitin Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/api/top-langs/?username=mmeitin&layout=compact&hide_border=true" />
   </a>
   </p>
 
