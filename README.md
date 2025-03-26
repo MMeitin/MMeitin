@@ -16,13 +16,16 @@
 ☕️ Si quieres saber más sobre mí o mi trabajo, ¡no dudes en contactarme! ¿Quizás alrededor de un buen café?.
 
 <div align="center">
-  <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <!-- Microsoft -->
+  <img align="center" alt="Microsoft" title="Microsoft" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg">
+  <!-- SharePoint -->
+  <img align="center" alt="SharePoint" title="SharePoint" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_Office_SharePoint_%282019–present%29.svg">
+  <!-- Azure -->
+  <img align="center" alt="Azure" title="Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+  <!-- OpenAI -->
+  <img align="center" alt="OpenAI" title="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
+  <!-- TypeScript -->
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/TypeScript_Logo_%28Blue%29.svg">
 </div>
 
 ---
