@@ -17,15 +17,15 @@
 
 <div align="center">
   <!-- Microsoft -->
-  <img align="center" alt="Microsoft" title="Microsoft" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg">
+  <img align="center" alt="Microsoft" title="Microsoft" height="30" width="40" src="https://cdn.simpleicons.org/microsoft">
   <!-- SharePoint -->
-  <img align="center" alt="SharePoint" title="SharePoint" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_Office_SharePoint_%282019–present%29.svg">
+  <img align="center" alt="SharePoint" title="SharePoint" height="30" width="40" src="https://cdn.simpleicons.org/sharepoint">
   <!-- Azure -->
-  <img align="center" alt="Azure" title="Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+  <img align="center" alt="Azure" title="Azure" height="30" width="40" src="https://cdn.simpleicons.org/azure">
   <!-- OpenAI -->
-  <img align="center" alt="OpenAI" title="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
-  <!-- TypeScript -->
-  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/TypeScript_Logo_%28Blue%29.svg">
+  <img align="center" alt="OpenAI" title="OpenAI" height="30" width="40" src="https://cdn.simpleicons.org/openai">
+  <!-- TypeScript (de Devicon) -->
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
 ---
