@@ -7,7 +7,13 @@
 
 <br>
 
-Mi nombre es Mario Meitín y soy un entusiasta del desarrollo web y el Big Data. Estoy formándome de forma intensiva en tecnologías como HTML, CSS, JavaScript, Python y SQL. Me interesa aprender a crear soluciones innovadoras y eficientes para los problemas que me encuentro. Mi objetivo es seguir mejorando mis conocimientos y contribuir a proyectos interesantes.
+👋 ¡Hola! Soy Mario, un entusiasta de la tecnología y la innovación, siempre listo para ‘Escuchar, aprender y compartir’.
+
+🎨 Mi viaje en el mundo del arte y animación 3D fomentó mi creatividad. Hoy, esa chispa creativa se manifiesta en mi trabajo como consultor y desarrollador especializado en M365, Power Platform y SharePoint Online, donde utilizo tecnologías modernas para diseñar y optimizar procesos.
+
+💻 Mi objetivo es fusionar mi amor por la tecnología con mi experiencia creativa para aportar valor en el desarrollo de soluciones con tecnologías Microsoft, ya sean low-code/no-code o desarrollo tradicional.
+
+☕️ Si quieres saber más sobre mí o mi trabajo, ¡no dudes en contactarme! ¿Quizás alrededor de un buen café?.
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
