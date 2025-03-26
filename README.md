@@ -16,14 +16,12 @@
 ☕️ Si quieres saber más sobre mí o mi trabajo, ¡no dudes en contactarme! ¿Quizás alrededor de un buen café?.
 
 <div align="center">
-  <!-- Microsoft -->
-  <img align="center" alt="Microsoft" title="Microsoft" height="30" width="40" src="https://cdn.simpleicons.org/microsoft">
-  <!-- SharePoint -->
-  <img align="center" alt="SharePoint" title="SharePoint" height="30" width="40" src="https://cdn.simpleicons.org/sharepoint">
+  <!-- SPFx (SharePoint Framework) -->
+  <img align="center" alt="SPFx" title="SPFx" height="30" width="40" src="https://cdn.simpleicons.org/sharepoint">
   <!-- Azure -->
   <img align="center" alt="Azure" title="Azure" height="30" width="40" src="https://cdn.simpleicons.org/azure">
-  <!-- OpenAI -->
-  <img align="center" alt="OpenAI" title="OpenAI" height="30" width="40" src="https://cdn.simpleicons.org/openai">
+  <!-- GitHub Copilot -->
+  <img align="center" alt="GitHub Copilot" title="GitHub Copilot" height="30" width="40" src="https://cdn.simpleicons.org/github-copilot">
   <!-- TypeScript (de Devicon) -->
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
